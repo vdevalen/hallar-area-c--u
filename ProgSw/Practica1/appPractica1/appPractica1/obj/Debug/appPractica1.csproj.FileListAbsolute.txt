@@ -1,0 +1,21 @@
+C:\Users\sebastian_castaneda\Documents\ProgSw\Practica1\appPractica1\appPractica1\bin\Debug\appPractica1.exe.config
+C:\Users\sebastian_castaneda\Documents\ProgSw\Practica1\appPractica1\appPractica1\bin\Debug\appPractica1.exe
+C:\Users\sebastian_castaneda\Documents\ProgSw\Practica1\appPractica1\appPractica1\bin\Debug\appPractica1.pdb
+C:\Users\sebastian_castaneda\Documents\ProgSw\Practica1\appPractica1\appPractica1\obj\Debug\appPractica1.csproj.AssemblyReference.cache
+C:\Users\sebastian_castaneda\Documents\ProgSw\Practica1\appPractica1\appPractica1\obj\Debug\appPractica1.frmHallarArea.resources
+C:\Users\sebastian_castaneda\Documents\ProgSw\Practica1\appPractica1\appPractica1\obj\Debug\appPractica1.Properties.Resources.resources
+C:\Users\sebastian_castaneda\Documents\ProgSw\Practica1\appPractica1\appPractica1\obj\Debug\appPractica1.csproj.GenerateResource.cache
+C:\Users\sebastian_castaneda\Documents\ProgSw\Practica1\appPractica1\appPractica1\obj\Debug\appPractica1.csproj.CoreCompileInputs.cache
+C:\Users\sebastian_castaneda\Documents\ProgSw\Practica1\appPractica1\appPractica1\obj\Debug\appPractica1.exe
+C:\Users\sebastian_castaneda\Documents\ProgSw\Practica1\appPractica1\appPractica1\obj\Debug\appPractica1.pdb
+C:\Users\vpinzon\OneDrive - SISTECREDITO SAS\Escritorio\ProgSw\ProgSw\Practica1\appPractica1\appPractica1\bin\Debug\appPractica1.exe.config
+C:\Users\vpinzon\OneDrive - SISTECREDITO SAS\Escritorio\ProgSw\ProgSw\Practica1\appPractica1\appPractica1\bin\Debug\appPractica1.exe
+C:\Users\vpinzon\OneDrive - SISTECREDITO SAS\Escritorio\ProgSw\ProgSw\Practica1\appPractica1\appPractica1\bin\Debug\appPractica1.pdb
+C:\Users\vpinzon\OneDrive - SISTECREDITO SAS\Escritorio\ProgSw\ProgSw\Practica1\appPractica1\appPractica1\obj\Debug\appPractica1.csproj.AssemblyReference.cache
+C:\Users\vpinzon\OneDrive - SISTECREDITO SAS\Escritorio\ProgSw\ProgSw\Practica1\appPractica1\appPractica1\obj\Debug\appPractica1.csproj.SuggestedBindingRedirects.cache
+C:\Users\vpinzon\OneDrive - SISTECREDITO SAS\Escritorio\ProgSw\ProgSw\Practica1\appPractica1\appPractica1\obj\Debug\appPractica1.frmHallarArea.resources
+C:\Users\vpinzon\OneDrive - SISTECREDITO SAS\Escritorio\ProgSw\ProgSw\Practica1\appPractica1\appPractica1\obj\Debug\appPractica1.Properties.Resources.resources
+C:\Users\vpinzon\OneDrive - SISTECREDITO SAS\Escritorio\ProgSw\ProgSw\Practica1\appPractica1\appPractica1\obj\Debug\appPractica1.csproj.GenerateResource.cache
+C:\Users\vpinzon\OneDrive - SISTECREDITO SAS\Escritorio\ProgSw\ProgSw\Practica1\appPractica1\appPractica1\obj\Debug\appPractica1.csproj.CoreCompileInputs.cache
+C:\Users\vpinzon\OneDrive - SISTECREDITO SAS\Escritorio\ProgSw\ProgSw\Practica1\appPractica1\appPractica1\obj\Debug\appPractica1.exe
+C:\Users\vpinzon\OneDrive - SISTECREDITO SAS\Escritorio\ProgSw\ProgSw\Practica1\appPractica1\appPractica1\obj\Debug\appPractica1.pdb

@@ -1,0 +1,11 @@
+C:\Users\salak401.SALASFR\Documents\DlloSw\Practica1\libPractica1\libPractica1\bin\Debug\libPractica1.dll
+C:\Users\salak401.SALASFR\Documents\DlloSw\Practica1\libPractica1\libPractica1\bin\Debug\libPractica1.pdb
+C:\Users\salak401.SALASFR\Documents\DlloSw\Practica1\libPractica1\libPractica1\obj\Debug\libPractica1.csproj.CoreCompileInputs.cache
+C:\Users\salak401.SALASFR\Documents\DlloSw\Practica1\libPractica1\libPractica1\obj\Debug\libPractica1.dll
+C:\Users\salak401.SALASFR\Documents\DlloSw\Practica1\libPractica1\libPractica1\obj\Debug\libPractica1.pdb
+C:\Users\sebastian_castaneda\Documents\ProgSw\Practica1\libPractica1\libPractica1\bin\Debug\libPractica1.dll
+C:\Users\sebastian_castaneda\Documents\ProgSw\Practica1\libPractica1\libPractica1\bin\Debug\libPractica1.pdb
+C:\Users\sebastian_castaneda\Documents\ProgSw\Practica1\libPractica1\libPractica1\obj\Debug\libPractica1.csproj.AssemblyReference.cache
+C:\Users\sebastian_castaneda\Documents\ProgSw\Practica1\libPractica1\libPractica1\obj\Debug\libPractica1.csproj.CoreCompileInputs.cache
+C:\Users\sebastian_castaneda\Documents\ProgSw\Practica1\libPractica1\libPractica1\obj\Debug\libPractica1.dll
+C:\Users\sebastian_castaneda\Documents\ProgSw\Practica1\libPractica1\libPractica1\obj\Debug\libPractica1.pdb
